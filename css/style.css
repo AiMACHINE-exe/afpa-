@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    font-family: "robotobold", Helvetica, Arial, sans-serif;
+    color: #B30062;
+}
+img {
+    width: auto;    
+}
+h2 {
+    background-color: #50FA8C;
+}
+/* ##### HEADER ##### */
+.logo {
+    width: 30%;
+}
+/* ##### NAV ###### */
+nav {
+    background-color: #47DE51;
+}
+ /* ####### SECTION 1 ######## */
+li {
+    list-style: none;
+    text-align: center;
+}
+ /* ###### Section 2 - Nos projets */
+
+ /* ###### Section 3 - Formation developpeur Web et Web mobile */
+
+/* ##### Section 4 - Formulaire contact / Carte interactive*/
+.section3 {
+    background-color: ##50FA8C;
+}
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+input[type=submit] {
+    background-color: #50FA8C;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+input[type=submit]:hover {
+    background-color: #50FA8C
+  }
+ /* ####### Section 5 - Contacts / infos ######## --> */
+
+ /* ####### Footer ######## --> */
+.footer {
+    background-color: #47DE51;
+    text-align: center;
+}
